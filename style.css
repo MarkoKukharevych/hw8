@@ -1,0 +1,39 @@
+.text-box > h3 {
+    color:pink;
+}
+
+#greycol {
+   color:gray ;
+}
+
+div > p {
+    color: red;
+}
+
+h3 ~ p {
+    color: green;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.first-child:hover, :focus {
+     color: aquamarine;
+}
+
+.only-child2:hover, :focus {
+    color: brown;
+}
+
+.nth-child-3:hover, :focus {
+    color: darkmagenta;
+}
+
+.only-child:hover, :focus {
+    color:lawngreen;
+}
+
+.last-child:hover, :focus {
+    color: khaki;
+}
